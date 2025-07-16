@@ -1,0 +1,120 @@
+liver: Isolate the liver, a large wedge‑shaped organ situated in the right upper quadrant beneath the diaphragm.
+liver: Segment the liver; note its large wedge‑shaped outline positioned in the right upper quadrant beneath the diaphragm.
+liver: Delineate the liver—a large wedge‑shaped structure found in the right upper quadrant beneath the diaphragm.
+liver: Precisely trace the liver, characteristically large wedge‑shaped and lying in the right upper quadrant beneath the diaphragm.
+liver: Identify the liver: large wedge‑shaped in contour and located in the right upper quadrant beneath the diaphragm.
+liver: Mark the liver, which shows a large wedge‑shaped silhouette in the right upper quadrant beneath the diaphragm.
+liver: Outline the liver; it presents a large wedge‑shaped geometry in the right upper quadrant beneath the diaphragm.
+liver: Extract the liver, typically large wedge‑shaped and resting in the right upper quadrant beneath the diaphragm.
+liver: Focus on the liver; its large wedge‑shaped borders reside in the right upper quadrant beneath the diaphragm.
+liver: Draw the mask for the liver, a large wedge‑shaped entity positioned in the right upper quadrant beneath the diaphragm.
+right_kidney: Isolate the right kidney, a bean‑shaped organ situated retroperitoneally on the right, below the liver.
+right_kidney: Segment the right kidney; note its bean‑shaped outline positioned retroperitoneally on the right, below the liver.
+right_kidney: Delineate the right kidney—a bean‑shaped structure found retroperitoneally on the right, below the liver.
+right_kidney: Precisely trace the right kidney, characteristically bean‑shaped and lying retroperitoneally on the right, below the liver.
+right_kidney: Identify the right kidney: bean‑shaped in contour and located retroperitoneally on the right, below the liver.
+right_kidney: Mark the right kidney, which shows a bean‑shaped silhouette retroperitoneally on the right, below the liver.
+right_kidney: Outline the right kidney; it presents a bean‑shaped geometry retroperitoneally on the right, below the liver.
+right_kidney: Extract the right kidney, typically bean‑shaped and resting retroperitoneally on the right, below the liver.
+right_kidney: Focus on the right kidney; its bean‑shaped borders reside retroperitoneally on the right, below the liver.
+right_kidney: Draw the mask for the right kidney, a bean‑shaped entity positioned retroperitoneally on the right, below the liver.
+spleen: Isolate the spleen, a oval organ situated high in the left upper quadrant under the ribs.
+spleen: Segment the spleen; note its oval outline positioned high in the left upper quadrant under the ribs.
+spleen: Delineate the spleen—a oval structure found high in the left upper quadrant under the ribs.
+spleen: Precisely trace the spleen, characteristically oval and lying high in the left upper quadrant under the ribs.
+spleen: Identify the spleen: oval in contour and located high in the left upper quadrant under the ribs.
+spleen: Mark the spleen, which shows a oval silhouette high in the left upper quadrant under the ribs.
+spleen: Outline the spleen; it presents a oval geometry high in the left upper quadrant under the ribs.
+spleen: Extract the spleen, typically oval and resting high in the left upper quadrant under the ribs.
+spleen: Focus on the spleen; its oval borders reside high in the left upper quadrant under the ribs.
+spleen: Draw the mask for the spleen, a oval entity positioned high in the left upper quadrant under the ribs.
+pancreas: Isolate the pancreas, a elongated tadpole‑like organ situated transversely across the upper abdomen, behind the stomach.
+pancreas: Segment the pancreas; note its elongated tadpole‑like outline positioned transversely across the upper abdomen, behind the stomach.
+pancreas: Delineate the pancreas—a elongated tadpole‑like structure found transversely across the upper abdomen, behind the stomach.
+pancreas: Precisely trace the pancreas, characteristically elongated tadpole‑like and lying transversely across the upper abdomen, behind the stomach.
+pancreas: Identify the pancreas: elongated tadpole‑like in contour and located transversely across the upper abdomen, behind the stomach.
+pancreas: Mark the pancreas, which shows a elongated tadpole‑like silhouette transversely across the upper abdomen, behind the stomach.
+pancreas: Outline the pancreas; it presents a elongated tadpole‑like geometry transversely across the upper abdomen, behind the stomach.
+pancreas: Extract the pancreas, typically elongated tadpole‑like and resting transversely across the upper abdomen, behind the stomach.
+pancreas: Focus on the pancreas; its elongated tadpole‑like borders reside transversely across the upper abdomen, behind the stomach.
+pancreas: Draw the mask for the pancreas, a elongated tadpole‑like entity positioned transversely across the upper abdomen, behind the stomach.
+aorta: Isolate the aorta, a circular tubular organ situated midline, anterior to the spine.
+aorta: Segment the aorta; note its circular tubular outline positioned midline, anterior to the spine.
+aorta: Delineate the aorta—a circular tubular structure found midline, anterior to the spine.
+aorta: Precisely trace the aorta, characteristically circular tubular and lying midline, anterior to the spine.
+aorta: Identify the aorta: circular tubular in contour and located midline, anterior to the spine.
+aorta: Mark the aorta, which shows a circular tubular silhouette midline, anterior to the spine.
+aorta: Outline the aorta; it presents a circular tubular geometry midline, anterior to the spine.
+aorta: Extract the aorta, typically circular tubular and resting midline, anterior to the spine.
+aorta: Focus on the aorta; its circular tubular borders reside midline, anterior to the spine.
+aorta: Draw the mask for the aorta, a circular tubular entity positioned midline, anterior to the spine.
+ivc: Isolate the ivc, a elliptical venous tube organ situated right of the aorta, anterior to the spine.
+ivc: Segment the ivc; note its elliptical venous tube outline positioned right of the aorta, anterior to the spine.
+ivc: Delineate the ivc—a elliptical venous tube structure found right of the aorta, anterior to the spine.
+ivc: Precisely trace the ivc, characteristically elliptical venous tube and lying right of the aorta, anterior to the spine.
+ivc: Identify the ivc: elliptical venous tube in contour and located right of the aorta, anterior to the spine.
+ivc: Mark the ivc, which shows a elliptical venous tube silhouette right of the aorta, anterior to the spine.
+ivc: Outline the ivc; it presents a elliptical venous tube geometry right of the aorta, anterior to the spine.
+ivc: Extract the ivc, typically elliptical venous tube and resting right of the aorta, anterior to the spine.
+ivc: Focus on the ivc; its elliptical venous tube borders reside right of the aorta, anterior to the spine.
+ivc: Draw the mask for the ivc, a elliptical venous tube entity positioned right of the aorta, anterior to the spine.
+right_adrenal_gland: Isolate the right adrenal gland, a triangular organ situated atop the right kidney, posterior to the liver.
+right_adrenal_gland: Segment the right adrenal gland; note its triangular outline positioned atop the right kidney, posterior to the liver.
+right_adrenal_gland: Delineate the right adrenal gland—a triangular structure found atop the right kidney, posterior to the liver.
+right_adrenal_gland: Precisely trace the right adrenal gland, characteristically triangular and lying atop the right kidney, posterior to the liver.
+right_adrenal_gland: Identify the right adrenal gland: triangular in contour and located atop the right kidney, posterior to the liver.
+right_adrenal_gland: Mark the right adrenal gland, which shows a triangular silhouette atop the right kidney, posterior to the liver.
+right_adrenal_gland: Outline the right adrenal gland; it presents a triangular geometry atop the right kidney, posterior to the liver.
+right_adrenal_gland: Extract the right adrenal gland, typically triangular and resting atop the right kidney, posterior to the liver.
+right_adrenal_gland: Focus on the right adrenal gland; its triangular borders reside atop the right kidney, posterior to the liver.
+right_adrenal_gland: Draw the mask for the right adrenal gland, a triangular entity positioned atop the right kidney, posterior to the liver.
+left_adrenal_gland: Isolate the left adrenal gland, a crescent organ situated atop the left kidney, medial to the spleen.
+left_adrenal_gland: Segment the left adrenal gland; note its crescent outline positioned atop the left kidney, medial to the spleen.
+left_adrenal_gland: Delineate the left adrenal gland—a crescent structure found atop the left kidney, medial to the spleen.
+left_adrenal_gland: Precisely trace the left adrenal gland, characteristically crescent and lying atop the left kidney, medial to the spleen.
+left_adrenal_gland: Identify the left adrenal gland: crescent in contour and located atop the left kidney, medial to the spleen.
+left_adrenal_gland: Mark the left adrenal gland, which shows a crescent silhouette atop the left kidney, medial to the spleen.
+left_adrenal_gland: Outline the left adrenal gland; it presents a crescent geometry atop the left kidney, medial to the spleen.
+left_adrenal_gland: Extract the left adrenal gland, typically crescent and resting atop the left kidney, medial to the spleen.
+left_adrenal_gland: Focus on the left adrenal gland; its crescent borders reside atop the left kidney, medial to the spleen.
+left_adrenal_gland: Draw the mask for the left adrenal gland, a crescent entity positioned atop the left kidney, medial to the spleen.
+gallbladder: Isolate the gallbladder, a pear‑shaped organ situated under the liver's inferior surface.
+gallbladder: Segment the gallbladder; note its pear‑shaped outline positioned under the liver's inferior surface.
+gallbladder: Delineate the gallbladder—a pear‑shaped structure found under the liver's inferior surface.
+gallbladder: Precisely trace the gallbladder, characteristically pear‑shaped and lying under the liver's inferior surface.
+gallbladder: Identify the gallbladder: pear‑shaped in contour and located under the liver's inferior surface.
+gallbladder: Mark the gallbladder, which shows a pear‑shaped silhouette under the liver's inferior surface.
+gallbladder: Outline the gallbladder; it presents a pear‑shaped geometry under the liver's inferior surface.
+gallbladder: Extract the gallbladder, typically pear‑shaped and resting under the liver's inferior surface.
+gallbladder: Focus on the gallbladder; its pear‑shaped borders reside under the liver's inferior surface.
+gallbladder: Draw the mask for the gallbladder, a pear‑shaped entity positioned under the liver's inferior surface.
+esophagus: Isolate the esophagus, a slender tubular organ situated posterior mediastinum, descending to the stomach.
+esophagus: Segment the esophagus; note its slender tubular outline positioned posterior mediastinum, descending to the stomach.
+esophagus: Delineate the esophagus—a slender tubular structure found posterior mediastinum, descending to the stomach.
+esophagus: Precisely trace the esophagus, characteristically slender tubular and lying posterior mediastinum, descending to the stomach.
+esophagus: Identify the esophagus: slender tubular in contour and located posterior mediastinum, descending to the stomach.
+esophagus: Mark the esophagus, which shows a slender tubular silhouette posterior mediastinum, descending to the stomach.
+esophagus: Outline the esophagus; it presents a slender tubular geometry posterior mediastinum, descending to the stomach.
+esophagus: Extract the esophagus, typically slender tubular and resting posterior mediastinum, descending to the stomach.
+esophagus: Focus on the esophagus; its slender tubular borders reside posterior mediastinum, descending to the stomach.
+esophagus: Draw the mask for the esophagus, a slender tubular entity positioned posterior mediastinum, descending to the stomach.
+stomach: Isolate the stomach, a J‑shaped organ situated in the left upper quadrant, below the diaphragm.
+stomach: Segment the stomach; note its J‑shaped outline positioned in the left upper quadrant, below the diaphragm.
+stomach: Delineate the stomach—a J‑shaped structure found in the left upper quadrant, below the diaphragm.
+stomach: Precisely trace the stomach, characteristically J‑shaped and lying in the left upper quadrant, below the diaphragm.
+stomach: Identify the stomach: J‑shaped in contour and located in the left upper quadrant, below the diaphragm.
+stomach: Mark the stomach, which shows a J‑shaped silhouette in the left upper quadrant, below the diaphragm.
+stomach: Outline the stomach; it presents a J‑shaped geometry in the left upper quadrant, below the diaphragm.
+stomach: Extract the stomach, typically J‑shaped and resting in the left upper quadrant, below the diaphragm.
+stomach: Focus on the stomach; its J‑shaped borders reside in the left upper quadrant, below the diaphragm.
+stomach: Draw the mask for the stomach, a J‑shaped entity positioned in the left upper quadrant, below the diaphragm.
+left_kidney: Isolate the left kidney, a bean‑shaped organ situated retroperitoneally on the left, beneath the spleen.
+left_kidney: Segment the left kidney; note its bean‑shaped outline positioned retroperitoneally on the left, beneath the spleen.
+left_kidney: Delineate the left kidney—a bean‑shaped structure found retroperitoneally on the left, beneath the spleen.
+left_kidney: Precisely trace the left kidney, characteristically bean‑shaped and lying retroperitoneally on the left, beneath the spleen.
+left_kidney: Identify the left kidney: bean‑shaped in contour and located retroperitoneally on the left, beneath the spleen.
+left_kidney: Mark the left kidney, which shows a bean‑shaped silhouette retroperitoneally on the left, beneath the spleen.
+left_kidney: Outline the left kidney; it presents a bean‑shaped geometry retroperitoneally on the left, beneath the spleen.
+left_kidney: Extract the left kidney, typically bean‑shaped and resting retroperitoneally on the left, beneath the spleen.
+left_kidney: Focus on the left kidney; its bean‑shaped borders reside retroperitoneally on the left, beneath the spleen.
+left_kidney: Draw the mask for the left kidney, a bean‑shaped entity positioned retroperitoneally on the left, beneath the spleen.

@@ -1107,3 +1107,23 @@ val loss: 0.08496859131216132
   Pancreas - Val Loss: 0.2167, Dice: 0.7662
   Esophagus - Val Loss: 0.0920, Dice: 0.9044
   Stomach - Val Loss: 0.0372, Dice: 0.9762
+Aorta Validation Complete: Loss: 0.0307, Dice: 0.9683
+Right_adrenal_gland Validation Complete: Loss: 0.2639, Dice: 0.7086
+Ivc Validation Complete: Loss: 0.0475, Dice: 0.9512
+Gallbladder Validation Complete: Loss: 0.0780, Dice: 0.9341
+Liver Validation Complete: Loss: 0.0372, Dice: 0.9773
+Pancreas Validation Complete: Loss: 0.3106, Dice: 0.6418
+Esophagus Validation Complete: Loss: 0.1059, Dice: 0.8822
+Stomach Validation Complete: Loss: 0.0372, Dice: 0.9748
+Time: 20250715-2042, train_Loss: 0.00941557346750116, train_accuracy : 0.9892582791574459
+Epoch 55/100
+Latest model saved successfully to ./work_dir1/MedSAM-ViT-B_organ_prompts_shape_location_MSFalse_oneneckFalse_clip_20250714-111948/medsam_model_latest.pth
+val loss: 0.11388377337706676
+  Aorta - Val Loss: 0.0307, Dice: 0.9683
+  Right_adrenal_gland - Val Loss: 0.2639, Dice: 0.7086
+  Ivc - Val Loss: 0.0475, Dice: 0.9512
+  Gallbladder - Val Loss: 0.0780, Dice: 0.9341
+  Liver - Val Loss: 0.0372, Dice: 0.9773
+  Pancreas - Val Loss: 0.3106, Dice: 0.6418
+  Esophagus - Val Loss: 0.1059, Dice: 0.8822
+  Stomach - Val Loss: 0.0372, Dice: 0.9748
